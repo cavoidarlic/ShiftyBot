@@ -1,0 +1,52 @@
+{
+    "users": {
+        "312860306701418497": {
+            "mid": 99400,
+            "high": 99500,
+            "elysion": 100000,
+            "missilis": 100000,
+            "tetra": 100000,
+            "pilgrim": 98950
+        },
+        "768288307045597205": {
+            "mid": 100000,
+            "high": 100100,
+            "elysion": 100100,
+            "missilis": 100100,
+            "tetra": 100100,
+            "pilgrim": 100100
+        },
+        "990456898996273242": {
+            "mid": 1000,
+            "high": 1000,
+            "elysion": 1000,
+            "missilis": 1000,
+            "tetra": 1000,
+            "pilgrim": 0
+        },
+        "606795477450752013": {
+            "mid": 0,
+            "high": 0,
+            "elysion": 0,
+            "missilis": 0,
+            "tetra": 0,
+            "pilgrim": 0
+        },
+        "749087824887939122": {
+            "mid": 0,
+            "high": 0,
+            "elysion": 0,
+            "missilis": 0,
+            "tetra": 0,
+            "pilgrim": 0
+        },
+        "1129941010718400662": {
+            "mid": 5000,
+            "high": 4500,
+            "elysion": 5000,
+            "missilis": 5000,
+            "tetra": 5000,
+            "pilgrim": 4000
+        }
+    }
+}

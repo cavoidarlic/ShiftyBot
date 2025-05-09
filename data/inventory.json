@@ -1,0 +1,1690 @@
+{
+    "users": {
+        "312860306701418497": {
+            "anis": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 43
+            },
+            "product 08": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "rapi": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 160
+            },
+            "neon": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "idoll ocean": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "soldier fa": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "product 23": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "neve": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "idoll flower": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "n102": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "ether": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "delta": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "product 12": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "idoll sun": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "mica": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "mihara": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "belorta": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "miranda": {
+                "rarity": "SSR",
+                "limit_break": 6,
+                "level": 1
+            },
+            "rupee: winter shopper": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "marciana": {
+                "rarity": "SSR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "rosanna": {
+                "rarity": "SSR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "anchor": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "flora": {
+                "rarity": "SSR",
+                "limit_break": 1,
+                "level": 1
+            },
+            "sugar": {
+                "rarity": "SSR",
+                "limit_break": 4,
+                "level": 1
+            },
+            "leona": {
+                "rarity": "SSR",
+                "limit_break": 3,
+                "level": 1
+            },
+            "yulha": {
+                "rarity": "SSR",
+                "limit_break": 10,
+                "level": 1
+            },
+            "snow white: innocent days": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "bay": {
+                "rarity": "SSR",
+                "limit_break": 6,
+                "level": 1
+            },
+            "emma": {
+                "rarity": "SSR",
+                "limit_break": 5,
+                "level": 1
+            },
+            "rapi: red hood": {
+                "rarity": "SSR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "kilo": {
+                "rarity": "SSR",
+                "limit_break": 10,
+                "level": 1
+            },
+            "frima": {
+                "rarity": "SSR",
+                "limit_break": 4,
+                "level": 1
+            },
+            "d: killer wife": {
+                "rarity": "SSR",
+                "limit_break": 3,
+                "level": 1
+            },
+            "rapunzel": {
+                "rarity": "SSR",
+                "limit_break": 10,
+                "level": 200
+            },
+            "ludmilla: winter owner": {
+                "rarity": "SSR",
+                "limit_break": 3,
+                "level": 1
+            },
+            "rapunzel: pure grace": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "red hood": {
+                "rarity": "SSR",
+                "limit_break": 10,
+                "level": 1
+            },
+            "maxwell": {
+                "rarity": "SSR",
+                "limit_break": 3,
+                "level": 1
+            },
+            "maiden": {
+                "rarity": "SSR",
+                "limit_break": 3,
+                "level": 1
+            },
+            "tia": {
+                "rarity": "SSR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "sakura: bloom in summer": {
+                "rarity": "SSR",
+                "limit_break": 3,
+                "level": 1
+            },
+            "noir": {
+                "rarity": "SSR",
+                "limit_break": 1,
+                "level": 1
+            },
+            "aria": {
+                "rarity": "SSR",
+                "limit_break": 3,
+                "level": 1
+            },
+            "alice": {
+                "rarity": "SSR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "laplace": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "mana": {
+                "rarity": "SSR",
+                "limit_break": 4,
+                "level": 1
+            },
+            "maiden: ice rose": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "scarlet": {
+                "rarity": "SSR",
+                "limit_break": 10,
+                "level": 1
+            },
+            "sakura": {
+                "rarity": "SSR",
+                "limit_break": 6,
+                "level": 1
+            },
+            "helm": {
+                "rarity": "SSR",
+                "limit_break": 7,
+                "level": 1
+            },
+            "drake": {
+                "rarity": "SSR",
+                "limit_break": 8,
+                "level": 1
+            },
+            "mary": {
+                "rarity": "SSR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "elegg": {
+                "rarity": "SSR",
+                "limit_break": 3,
+                "level": 1
+            },
+            "rupee": {
+                "rarity": "SSR",
+                "limit_break": 3,
+                "level": 1
+            },
+            "anne: miracle fairy": {
+                "rarity": "SSR",
+                "limit_break": 1,
+                "level": 1
+            },
+            "snow white": {
+                "rarity": "SSR",
+                "limit_break": 10,
+                "level": 1
+            },
+            "quiry": {
+                "rarity": "SSR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "mica: snow buddy": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "soline": {
+                "rarity": "SSR",
+                "limit_break": 5,
+                "level": 1
+            },
+            "signal": {
+                "rarity": "SSR",
+                "limit_break": 5,
+                "level": 1
+            },
+            "neon: blue ocean": {
+                "rarity": "SSR",
+                "limit_break": 1,
+                "level": 1
+            },
+            "guillotine: winter slayer": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "folkwang": {
+                "rarity": "SSR",
+                "limit_break": 1,
+                "level": 1
+            },
+            "volume": {
+                "rarity": "SSR",
+                "limit_break": 1,
+                "level": 1
+            },
+            "nero": {
+                "rarity": "SSR",
+                "limit_break": 4,
+                "level": 1
+            },
+            "zwei": {
+                "rarity": "SSR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "brid": {
+                "rarity": "SSR",
+                "limit_break": 5,
+                "level": 1
+            },
+            "rouge": {
+                "rarity": "SSR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "cinderella": {
+                "rarity": "SSR",
+                "limit_break": 10,
+                "level": 118
+            },
+            "diesel": {
+                "rarity": "SSR",
+                "limit_break": 3,
+                "level": 1
+            },
+            "jackal": {
+                "rarity": "SSR",
+                "limit_break": 3,
+                "level": 1
+            },
+            "noah": {
+                "rarity": "SSR",
+                "limit_break": 10,
+                "level": 1
+            },
+            "crown": {
+                "rarity": "SSR",
+                "limit_break": 10,
+                "level": 1
+            },
+            "exia": {
+                "rarity": "SSR",
+                "limit_break": 3,
+                "level": 1
+            },
+            "julia": {
+                "rarity": "SSR",
+                "limit_break": 3,
+                "level": 1
+            },
+            "moran": {
+                "rarity": "SSR",
+                "limit_break": 4,
+                "level": 1
+            },
+            "dorothy": {
+                "rarity": "SSR",
+                "limit_break": 10,
+                "level": 153
+            },
+            "d": {
+                "rarity": "SSR",
+                "limit_break": 4,
+                "level": 1
+            },
+            "cocoa": {
+                "rarity": "SSR",
+                "limit_break": 7,
+                "level": 1
+            },
+            "biscuit": {
+                "rarity": "SSR",
+                "limit_break": 4,
+                "level": 1
+            },
+            "milk": {
+                "rarity": "SSR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "ludmilla": {
+                "rarity": "SSR",
+                "limit_break": 3,
+                "level": 1
+            },
+            "liter": {
+                "rarity": "SSR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "clay": {
+                "rarity": "SSR",
+                "limit_break": 3,
+                "level": 1
+            },
+            "tove": {
+                "rarity": "SSR",
+                "limit_break": 1,
+                "level": 1
+            },
+            "trony": {
+                "rarity": "SSR",
+                "limit_break": 4,
+                "level": 1
+            },
+            "grave": {
+                "rarity": "SSR",
+                "limit_break": 10,
+                "level": 1
+            },
+            "anchor: innocent maid": {
+                "rarity": "SSR",
+                "limit_break": 3,
+                "level": 1
+            },
+            "privaty": {
+                "rarity": "SSR",
+                "limit_break": 5,
+                "level": 1
+            },
+            "alice: wonderland bunny": {
+                "rarity": "SSR",
+                "limit_break": 3,
+                "level": 1
+            },
+            "phantom": {
+                "rarity": "SSR",
+                "limit_break": 8,
+                "level": 1
+            },
+            "isabel": {
+                "rarity": "SSR",
+                "limit_break": 10,
+                "level": 1
+            },
+            "harran": {
+                "rarity": "SSR",
+                "limit_break": 10,
+                "level": 1
+            },
+            "scarlet: black shadow": {
+                "rarity": "SSR",
+                "limit_break": 10,
+                "level": 1
+            },
+            "modernia": {
+                "rarity": "SSR",
+                "limit_break": 10,
+                "level": 1
+            },
+            "quency: escape queen": {
+                "rarity": "SSR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "yan": {
+                "rarity": "SSR",
+                "limit_break": 3,
+                "level": 1
+            },
+            "ein": {
+                "rarity": "SSR",
+                "limit_break": 3,
+                "level": 1
+            },
+            "eunhwa": {
+                "rarity": "SSR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "yuni": {
+                "rarity": "SSR",
+                "limit_break": 1,
+                "level": 1
+            },
+            "guillotine": {
+                "rarity": "SSR",
+                "limit_break": 5,
+                "level": 1
+            },
+            "poli": {
+                "rarity": "SSR",
+                "limit_break": 1,
+                "level": 1
+            },
+            "mast": {
+                "rarity": "SSR",
+                "limit_break": 4,
+                "level": 1
+            },
+            "vesti": {
+                "rarity": "SSR",
+                "limit_break": 1,
+                "level": 1
+            },
+            "mast: romantic maid": {
+                "rarity": "SSR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "novel": {
+                "rarity": "SSR",
+                "limit_break": 1,
+                "level": 1
+            },
+            "blanc": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "pepper": {
+                "rarity": "SSR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "privaty: unkind maid": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "viper": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "rumani": {
+                "rarity": "SSR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "dolla": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "centi": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "naga": {
+                "rarity": "SSR",
+                "limit_break": 1,
+                "level": 1
+            },
+            "soldier ow": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "soldier eg": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "admi": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "noise": {
+                "rarity": "SSR",
+                "limit_break": 1,
+                "level": 1
+            },
+            "crow": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            }
+        },
+        "768288307045597205": {
+            "anis": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "product 08": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "rapi": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "neon": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "idoll ocean": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "soldier fa": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "delta": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "sakura": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "idoll sun": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "n102": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "product 12": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "idoll flower": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "ether": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "mihara": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "mica": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "phantom": {
+                "rarity": "SSR",
+                "limit_break": 10,
+                "level": 1
+            },
+            "product 23": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "belorta": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "alice": {
+                "rarity": "SSR",
+                "limit_break": 1,
+                "level": 1
+            },
+            "mast: romantic maid": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "privaty: unkind maid": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "scarlet: black shadow": {
+                "rarity": "SSR",
+                "limit_break": 10,
+                "level": 1
+            },
+            "bay": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "brid": {
+                "rarity": "SSR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "ade": {
+                "rarity": "SSR",
+                "limit_break": 1,
+                "level": 1
+            },
+            "maiden": {
+                "rarity": "SSR",
+                "limit_break": 1,
+                "level": 1
+            },
+            "ludmilla": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "privaty": {
+                "rarity": "SSR",
+                "limit_break": 1,
+                "level": 1
+            },
+            "centi": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "snow white": {
+                "rarity": "SSR",
+                "limit_break": 8,
+                "level": 1
+            },
+            "milk": {
+                "rarity": "SSR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "biscuit": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "liter": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "poli": {
+                "rarity": "SSR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "yulha": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "guillotine": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "diesel": {
+                "rarity": "SSR",
+                "limit_break": 1,
+                "level": 1
+            },
+            "dorothy": {
+                "rarity": "SSR",
+                "limit_break": 4,
+                "level": 1
+            },
+            "modernia": {
+                "rarity": "SSR",
+                "limit_break": 9,
+                "level": 1
+            },
+            "noah": {
+                "rarity": "SSR",
+                "limit_break": 6,
+                "level": 1
+            },
+            "cinderella": {
+                "rarity": "SSR",
+                "limit_break": 7,
+                "level": 1
+            },
+            "scarlet": {
+                "rarity": "SSR",
+                "limit_break": 6,
+                "level": 1
+            },
+            "rapunzel": {
+                "rarity": "SSR",
+                "limit_break": 6,
+                "level": 63
+            },
+            "grave": {
+                "rarity": "SSR",
+                "limit_break": 3,
+                "level": 1
+            },
+            "isabel": {
+                "rarity": "SSR",
+                "limit_break": 8,
+                "level": 1
+            },
+            "harran": {
+                "rarity": "SSR",
+                "limit_break": 10,
+                "level": 1
+            },
+            "red hood": {
+                "rarity": "SSR",
+                "limit_break": 8,
+                "level": 1
+            },
+            "crown": {
+                "rarity": "SSR",
+                "limit_break": 7,
+                "level": 1
+            },
+            "vesti": {
+                "rarity": "SSR",
+                "limit_break": 1,
+                "level": 1
+            },
+            "soline": {
+                "rarity": "SSR",
+                "limit_break": 1,
+                "level": 1
+            },
+            "rapi: red hood": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "emma": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "d: killer wife": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "signal": {
+                "rarity": "SSR",
+                "limit_break": 1,
+                "level": 1
+            },
+            "sugar": {
+                "rarity": "SSR",
+                "limit_break": 1,
+                "level": 1
+            },
+            "rosanna": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "mast": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "miranda": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "volume": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "tove": {
+                "rarity": "SSR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "novel": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "dolla": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "cocoa": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "helm": {
+                "rarity": "SSR",
+                "limit_break": 1,
+                "level": 1
+            },
+            "clay": {
+                "rarity": "SSR",
+                "limit_break": 1,
+                "level": 1
+            },
+            "alice: wonderland bunny": {
+                "rarity": "SSR",
+                "limit_break": 1,
+                "level": 1
+            },
+            "frima": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "naga": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "drake": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "anne: miracle fairy": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "rupee": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "sakura: bloom in summer": {
+                "rarity": "SSR",
+                "limit_break": 1,
+                "level": 1
+            },
+            "soldier ow": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "mana": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "soldier eg": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "tia": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "quiry": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "yan": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            }
+        },
+        "990456898996273242": {
+            "anis": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "product 08": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "rapi": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "neon": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "idoll ocean": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "soldier fa": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "grave": {
+                "rarity": "SSR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "mica": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "soldier ow": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "n102": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "ein": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "idoll flower": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "brid": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "delta": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "ludmilla": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "mihara": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "sugar": {
+                "rarity": "SSR",
+                "limit_break": 1,
+                "level": 1
+            },
+            "product 23": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "idoll sun": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "crown": {
+                "rarity": "SSR",
+                "limit_break": 3,
+                "level": 1
+            },
+            "soldier eg": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "product 12": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "jackal": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "ether": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "belorta": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "vesti": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "signal": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "tove": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "soda": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "cocoa": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "rupee": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "noah": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "mast: romantic maid": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "elegg": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "harran": {
+                "rarity": "SSR",
+                "limit_break": 1,
+                "level": 1
+            },
+            "cinderella": {
+                "rarity": "SSR",
+                "limit_break": 1,
+                "level": 1
+            },
+            "scarlet: black shadow": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "snow white": {
+                "rarity": "SSR",
+                "limit_break": 1,
+                "level": 1
+            },
+            "isabel": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "red hood": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            }
+        },
+        "923469687428370503": {
+            "anis": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "product 08": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "rapi": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "neon": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "idoll ocean": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "soldier fa": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "product 12": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "product 23": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "ether": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "soldier eg": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "crown": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "mihara": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "mica": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "idoll sun": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "n102": {
+                "rarity": "SR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "soldier ow": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "delta": {
+                "rarity": "SR",
+                "limit_break": 1,
+                "level": 1
+            },
+            "idoll flower": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "belorta": {
+                "rarity": "SR",
+                "limit_break": 1,
+                "level": 1
+            },
+            "bay": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            }
+        },
+        "606795477450752013": {
+            "anis": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "product 08": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "rapi": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "neon": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "idoll ocean": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "soldier fa": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "ether": {
+                "rarity": "SR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "soldier ow": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "product 12": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "n102": {
+                "rarity": "SR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "mihara": {
+                "rarity": "SR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "idoll flower": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "noise": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "soldier eg": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            }
+        },
+        "749087824887939122": {
+            "anis": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "product 08": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "rapi": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "neon": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "idoll ocean": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "soldier fa": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "soldier eg": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "mica": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "idoll flower": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "idoll sun": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "red hood": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "soldier ow": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "product 12": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "crown": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "n102": {
+                "rarity": "SR",
+                "limit_break": 1,
+                "level": 1
+            },
+            "delta": {
+                "rarity": "SR",
+                "limit_break": 0,
+                "level": 1
+            }
+        },
+        "666258261489745928": {
+            "anis": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "product 08": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "rapi": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "neon": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "idoll ocean": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "soldier fa": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "mihara": {
+                "rarity": "SR",
+                "limit_break": 1,
+                "level": 1
+            },
+            "product 23": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "idoll sun": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "delta": {
+                "rarity": "SR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "soldier eg": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "idoll flower": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "soldier ow": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "ether": {
+                "rarity": "SR",
+                "limit_break": 0,
+                "level": 1
+            }
+        },
+        "1129941010718400662": {
+            "anis": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "product 08": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "rapi": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "neon": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "idoll ocean": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "soldier fa": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "idoll sun": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "mica": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "soldier eg": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "idoll flower": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "mihara": {
+                "rarity": "SR",
+                "limit_break": 2,
+                "level": 1
+            },
+            "product 12": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "folkwang": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "soldier ow": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "rapunzel": {
+                "rarity": "SSR",
+                "limit_break": 1,
+                "level": 1
+            },
+            "belorta": {
+                "rarity": "SR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "product 23": {
+                "rarity": "R",
+                "limit_break": 0,
+                "level": 1
+            },
+            "n102": {
+                "rarity": "SR",
+                "limit_break": 1,
+                "level": 1
+            },
+            "noise": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "pepper": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "delta": {
+                "rarity": "SR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "quiry": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "diesel": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "vesti": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "elegg": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "red hood": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "harran": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "scarlet: black shadow": {
+                "rarity": "SSR",
+                "limit_break": 1,
+                "level": 1
+            },
+            "snow white": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "isabel": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "modernia": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "dorothy": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            },
+            "grave": {
+                "rarity": "SSR",
+                "limit_break": 0,
+                "level": 1
+            }
+        }
+    }
+}

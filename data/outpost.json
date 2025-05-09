@@ -1,0 +1,44 @@
+{
+    "users": {
+        "312860306701418497": {
+            "level": 400,
+            "progress": 0,
+            "last_claim": 1746720683.899329,
+            "last_wipe": 1744785345.583353,
+            "wipe_attempts": 3,
+            "last_progress": 1746720070.757009
+        },
+        "768288307045597205": {
+            "level": 1,
+            "progress": 2,
+            "last_claim": 1744785363.125074,
+            "last_wipe": 1744785374.122418,
+            "wipe_attempts": 2,
+            "last_progress": 1744785363.125074
+        },
+        "923469687428370503": {
+            "level": 1,
+            "progress": 1,
+            "last_claim": 1746720537.82397,
+            "last_wipe": 1746720608.040863,
+            "wipe_attempts": 2,
+            "last_progress": 1746720537.82397
+        },
+        "606795477450752013": {
+            "level": 1,
+            "progress": 1,
+            "last_claim": 1746720692.485524,
+            "last_wipe": 0,
+            "wipe_attempts": 1,
+            "last_progress": 1746720692.485524
+        },
+        "1129941010718400662": {
+            "level": 1,
+            "progress": 1,
+            "last_claim": 1746722344.802898,
+            "last_wipe": 1746722349.727391,
+            "wipe_attempts": 2,
+            "last_progress": 1746722344.802898
+        }
+    }
+}

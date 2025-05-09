@@ -1,0 +1,112 @@
+{
+    "users": {
+        "312860306701418497": {
+            "credits": 53022696,
+            "gems": 158300,
+            "social_points": 92500,
+            "recruit_voucher": 0,
+            "advanced_voucher": 0,
+            "body_labels": 164000,
+            "silver_tickets": 191,
+            "gold_tickets": 110,
+            "battle_data": 9037426,
+            "core_dust": 72510
+        },
+        "1346405025265745950": {
+            "credits": 1000000000,
+            "gems": 0,
+            "battle_data": 0,
+            "core_dust": 0,
+            "social_points": 100,
+            "recruit_voucher": 20,
+            "advanced_voucher": 20,
+            "body_labels": 0,
+            "silver_tickets": 0,
+            "gold_tickets": 0
+        },
+        "990456898996273242": {
+            "credits": 50000,
+            "gems": 0,
+            "battle_data": 0,
+            "core_dust": 0,
+            "social_points": 0,
+            "recruit_voucher": 0,
+            "advanced_voucher": 0,
+            "body_labels": 30250,
+            "silver_tickets": 20,
+            "gold_tickets": 160
+        },
+        "768288307045597205": {
+            "credits": 182345,
+            "gems": 9919850,
+            "social_points": 0,
+            "recruit_voucher": 0,
+            "advanced_voucher": 0,
+            "battle_data": 272045,
+            "core_dust": 844,
+            "body_labels": 49150,
+            "silver_tickets": 130,
+            "gold_tickets": 140
+        },
+        "923469687428370503": {
+            "credits": 106160,
+            "gems": 0,
+            "social_points": 100,
+            "recruit_voucher": 20,
+            "advanced_voucher": 0,
+            "body_labels": 6800,
+            "silver_tickets": 0,
+            "gold_tickets": 50,
+            "battle_data": 115440,
+            "core_dust": 358
+        },
+        "606795477450752013": {
+            "credits": 101840,
+            "gems": 9000,
+            "social_points": 100,
+            "recruit_voucher": 20,
+            "advanced_voucher": 0,
+            "body_labels": 1200,
+            "silver_tickets": 0,
+            "gold_tickets": 20,
+            "battle_data": 106560,
+            "core_dust": 331
+        },
+        "749087824887939122": {
+            "credits": 50000,
+            "gems": 9000,
+            "social_points": 100,
+            "recruit_voucher": 10,
+            "advanced_voucher": 0,
+            "body_labels": 4150,
+            "silver_tickets": 10,
+            "gold_tickets": 20,
+            "battle_data": 0,
+            "core_dust": 0
+        },
+        "666258261489745928": {
+            "credits": 50000,
+            "gems": 9000,
+            "social_points": 100,
+            "recruit_voucher": 10,
+            "advanced_voucher": 0,
+            "body_labels": 4200,
+            "silver_tickets": 10,
+            "gold_tickets": 20,
+            "battle_data": 0,
+            "core_dust": 0
+        },
+        "1129941010718400662": {
+            "credits": 106160,
+            "gems": 0,
+            "social_points": 100,
+            "recruit_voucher": 10,
+            "advanced_voucher": 0,
+            "body_labels": 9250,
+            "silver_tickets": 10,
+            "gold_tickets": 50,
+            "battle_data": 115440,
+            "core_dust": 358
+        }
+    }
+}
